@@ -4,7 +4,7 @@
   
 ### Full-Stack Developer | SaaS Architect | Entrepreneur
 
-[![Website](https://img.shields.io/badge/Website-lucasvanborkulo.nl-blue?style=flat-square&logo=google-chrome)](https://lucasvanborkulo.nl)
+[![Website](https://img.shields.io/badge/Website-webschelp.nl-blue?style=flat-square&logo=google-chrome)](https://webschelp.nl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--van--borkulo-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-van-borkulo/)
 [![Location](https://img.shields.io/badge/Location-Netherlands-orange?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Netherlands)
 
@@ -16,7 +16,7 @@
 
 I'm a **22-year-old software developer** from the Netherlands with over a decade of programming experience. My journey in tech started at age 10, and I haven't looked back since. I'm passionate about building scalable web applications and innovative SaaS solutions.
 
-**Founder & Lead Developer** at **[WebSchelp](https://webschelp.com)** — a company specializing in:
+**Founder & Lead Developer** at **[WebSchelp](https://webschelp.nl)** — a company specializing in:
 - 🌐 Custom Web Development
 - ☁️ SaaS Product Development
 - 🎨 Full-Stack Solutions
@@ -81,7 +81,6 @@ I believe in:
 
 I'm always interested in connecting with fellow developers, potential clients, and tech enthusiasts!
 
-- 🌐 **Website**: [lucasvanborkulo.nl](https://lucasvanborkulo.nl)
 - 💼 **LinkedIn**: [lucas-van-borkulo](https://www.linkedin.com/in/lucas-van-borkulo/)
 - 🏢 **Company**: [WebSchelp](https://webschelp.nl)
 - 📧 **Email**: Feel free to reach out via LinkedIn or my website
