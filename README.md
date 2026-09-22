@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **22-year-old software developer** from the Netherlands with over a decade of programming experience. My journey in tech started at age 10, and I haven't looked back since. I'm passionate about building scalable web applications and innovative SaaS solutions.
+I'm a **23-year-old software developer** from the Netherlands with over a decade of programming experience. My journey in tech started at age 10, and I haven't looked back since. I'm passionate about building scalable web applications and innovative SaaS solutions.
 
 **Founder & Lead Developer** at **[WebSchelp](https://webschelp.nl)** — a company specializing in:
 - 🌐 Custom Web Development
@@ -103,9 +103,7 @@ I'm always interested in connecting with fellow developers, potential clients, a
 
 - 🎂 Started programming at age 10
 - 📍 Based in the beautiful Netherlands
-- 🚀 12+ years of coding experience
-- ☕ Fueled by coffee and curiosity
-- 🎯 Always up for a new challenge
+- 🚀 13+ years of coding experience
 
 ---
 
